@@ -31,6 +31,12 @@ WorkNest – Android service booking app
 
 ERP System – Backend & database management project
 
+🎓 Education
+
+National Institute of Business Management (NIBM)
+Software Engineering / Information Technology
+
+
 🎯 Purpose
 
 This CV is shared for internship opportunities, interviews, and professional networking, especially in the areas of software development, backend engineering, and emerging technologies.
